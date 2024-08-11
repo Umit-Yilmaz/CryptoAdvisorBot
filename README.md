@@ -77,7 +77,6 @@ This project is a web-based tool that fetches and displays cryptocurrency data, 
    - Enter a cryptocurrency symbol (e.g., BTC for Bitcoin) and click the "Fetch Prices" button to retrieve real-time price data and historical charts.
    - <img width="942" alt="3" src="https://github.com/user-attachments/assets/3e17d628-7f7a-47c0-9a8e-afa1941c5069">
 
-<img width="408" alt="4" src="https://github.com/user-attachments/assets/f7643394-db8d-41a0-bd2c-cf8c3c9f5e1a">
 
 5. **Generate AI Trading Report:**
 
