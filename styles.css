@@ -1,0 +1,27 @@
+body {
+    padding: 20px;
+}
+
+.row {
+    height: 100vh;
+    /* Full height for the container */
+}
+
+.table-container {
+    height: 50%;
+    overflow-y: auto;
+    /* Enable scrolling if content exceeds height */
+}
+
+.chart-container {
+    height: 50%;
+    padding-left: 20px;
+    /* Space between table and chart */
+    overflow-y: auto;
+    /* Enable scrolling if content exceeds height */
+}
+
+#cryptoChart {
+    max-height: 300px;
+    padding-left: 75px;
+  }
