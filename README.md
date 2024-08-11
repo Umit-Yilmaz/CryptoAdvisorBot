@@ -2,7 +2,6 @@
 
 This repo includes a simple finance recommendation site using Cryptocompare and OpenAI API.
 
-<img width="960" alt="1" src="https://github.com/user-attachments/assets/69763237-42a9-4c22-9af9-48a7d3468017">
 
 
 <img width="960" alt="2" src="https://github.com/user-attachments/assets/f39632b2-7760-4b52-bee7-81ca0081e365">
