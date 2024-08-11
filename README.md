@@ -34,7 +34,9 @@ This project is a web-based tool that fetches and displays cryptocurrency data, 
 2. **Install Python dependencies:**
 
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
+
+
    ```
 
 3. **Install JavaScript dependencies:**
