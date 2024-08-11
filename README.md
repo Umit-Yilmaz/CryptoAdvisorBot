@@ -2,6 +2,9 @@
 
 This repo includes a simple finance recommendation site using Cryptocompare and OpenAI API.
 
+## Basic Pipeline
+![image](https://github.com/user-attachments/assets/d44ae410-a3d3-49d9-9e38-c52f65ba25ff)
+
 
 
 <img width="960" alt="2" src="https://github.com/user-attachments/assets/f39632b2-7760-4b52-bee7-81ca0081e365">
