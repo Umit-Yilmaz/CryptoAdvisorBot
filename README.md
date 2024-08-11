@@ -103,9 +103,5 @@ This project is a web-based tool that fetches and displays cryptocurrency data, 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contributing
-
-If you wish to contribute, please fork the repository and create a pull request with your changes. Contributions are welcome!
-
 ---
 
