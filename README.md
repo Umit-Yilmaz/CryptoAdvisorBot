@@ -2,6 +2,12 @@
 
 This repo includes a simple finance recommendation site using Cryptocompare and OpenAI API.
 
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/69763237-42a9-4c22-9af9-48a7d3468017">
+
+
+<img width="960" alt="2" src="https://github.com/user-attachments/assets/f39632b2-7760-4b52-bee7-81ca0081e365">
+
+
 ---
 
 This project is a web-based tool that fetches and displays cryptocurrency data, including real-time prices and historical trends, and provides AI-generated trading advice using the OpenAI API.
@@ -68,10 +74,15 @@ This project is a web-based tool that fetches and displays cryptocurrency data, 
 
    - The main page displays a list of all available cryptocurrencies.
    - Enter a cryptocurrency symbol (e.g., BTC for Bitcoin) and click the "Fetch Prices" button to retrieve real-time price data and historical charts.
+   - <img width="942" alt="3" src="https://github.com/user-attachments/assets/3e17d628-7f7a-47c0-9a8e-afa1941c5069">
+
+<img width="408" alt="4" src="https://github.com/user-attachments/assets/f7643394-db8d-41a0-bd2c-cf8c3c9f5e1a">
 
 5. **Generate AI Trading Report:**
 
    - After fetching the cryptocurrency data, click the "Generate AI Report" button to receive trading advice based on the selected cryptocurrency.
+   - <img width="922" alt="5" src="https://github.com/user-attachments/assets/729698bc-fcb2-44d8-8f92-6155f251ca1b">
+
 
 
 ## API Endpoint
